@@ -1,0 +1,17 @@
+C:\Users\Balino\source\repos\CashierApp\CashierApp\bin\Debug\net8.0-windows\CashierApp.exe
+C:\Users\Balino\source\repos\CashierApp\CashierApp\bin\Debug\net8.0-windows\CashierApp.deps.json
+C:\Users\Balino\source\repos\CashierApp\CashierApp\bin\Debug\net8.0-windows\CashierApp.runtimeconfig.json
+C:\Users\Balino\source\repos\CashierApp\CashierApp\bin\Debug\net8.0-windows\CashierApp.dll
+C:\Users\Balino\source\repos\CashierApp\CashierApp\bin\Debug\net8.0-windows\CashierApp.pdb
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\CashierApp.Form1.resources
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\CashierApp.csproj.GenerateResource.cache
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\CashierApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\CashierApp.AssemblyInfoInputs.cache
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\CashierApp.AssemblyInfo.cs
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\CashierApp.csproj.CoreCompileInputs.cache
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\CashierApp.dll
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\refint\CashierApp.dll
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\CashierApp.pdb
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\CashierApp.genruntimeconfig.cache
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\ref\CashierApp.dll
+C:\Users\Balino\source\repos\CashierApp\CashierApp\obj\Debug\net8.0-windows\CashierApp.Calculator.resources
